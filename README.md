@@ -40,7 +40,7 @@ That combination — large population, low digital opportunity — is precisely 
 
 ## What this means for my plan
 
-This is the argument I want to make with my study plan for the **Global Korea Scholarship**: I want to study [your field of study] in Korea, a country that has built some of the world's most effective models for regional and national digital clusters, and bring that knowledge home to build something in one of these specific, underserved regions — not the capital.
+This is the argument I want to make with my study plan for the **Global Korea Scholarship**: I want to study computer engineering in Korea, a country that has built some of the world's most effective models for regional and national digital clusters, and bring that knowledge home to build something in one of these specific, underserved regions — not the capital.
 
 Concretely, my plan has three parts:
 
